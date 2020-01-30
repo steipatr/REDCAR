@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Getting started with Git](getting-started-with-git.md)
-* [REDCAR](redcar.md)
+* [REDCAR](redcar/README.md)
+  * [Getting started with Git](redcar/getting-started-with-git.md)
 

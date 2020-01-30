@@ -8,7 +8,7 @@ description: Workshop introduction
 
 Becoming a super hero is a fairly straight forward process:
 
-```
+```text
 $ give me super-powers
 ```
 
