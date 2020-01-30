@@ -6,5 +6,5 @@ description: >-
 
 # REDCAR
 
-![](.gitbook/assets/project_idea.png)
+![](../.gitbook/assets/project_idea.png)
 
