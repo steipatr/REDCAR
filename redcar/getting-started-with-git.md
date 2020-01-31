@@ -76,6 +76,46 @@ $ git diff
 Check the past commits
 
 ```text
-$ git log
+$ git log [no options | commit_id | file_name]
 ```
+
+## Forgetting changes, recovering files, moving around the commit tree
+
+Detaching the HEAD \(by mistake? on purpose? \)
+
+```text
+$ git checkout commit_id
+```
+
+```text
+#Recover with:
+$ git checkout branch_name (master by default)
+#Restart "history" from here - start a new branch:
+$ git checkout -b new_branch_name (do NOT call it "master")
+```
+
+Getting a single file back \(i.e. discard changes in the local file tree, recover the state of a given file at at given commit\)
+
+```text
+git checkout commit_id file_name
+```
+
+## Ignoring things - very useful
+
+Create a ".gitignore" file in the root folder of your repository
+
+```text
+$ nano .gitignore (rough, but should work in all environment)
+```
+
+The file contains a list of "filters" to check whether or not a change should be tracked by Git. Filter may tool like:
+
+\(Ignoring all changes to files with the .temp extension, and all files in the "intermediate\_results" folder\)
+
+```text
+*.temp
+intermediate_results/
+```
+
+
 
