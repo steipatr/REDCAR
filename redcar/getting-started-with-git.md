@@ -117,5 +117,104 @@ The file contains a list of "filters" to check whether or not a change should be
 intermediate_results/
 ```
 
+## Collaboration - working with a remote
 
+Objective: put the artefacts and their history in a location where it can be retrieved by others, and they can contribute to the project. 
+
+Step 1: Create the shared repository \(Git Lab - create empty repository; i.e. no readme file, just to make it easier to work\)
+
+Step 2: link your local repository to the shared repository. The link is called an "upstream". The shared repository is where you will get the latest version from \(fetch\) and push your latests commits \(push\).
+
+_This information is provided by GitLab when you create the shared repository! You get the repo URL from GitLab/GitHub_
+
+```text
+#command: git remote add [local_name] [URL_of_the_shared_repo]
+#example:
+$ git remote add origin https://github.com/vlad/planets.git
+
+#check if it worked - list "remotes"
+git remote -v 
+
+```
+
+With this, the following commands will push and pull changes to and from the "remote":
+
+
+
+```text
+# command (get what's on the remote locally):
+# git pull [name_of_the_remote_repository] [local_branch_to_store_commits]
+# example:
+$ git pull origin master
+
+# command (send local changes to remote):
+# git push [name_of_the_remote_repository] [remote_branch_to_store_commits]
+# example:
+$ git pull origin master
+```
+
+## Getting started with collaborating
+
+Getting someone else's code: \(this is eased by GitLab/GitHub interface\)
+
+```text
+# command (copy remote repo locally):
+# git clone [remote_url] [local_directory]
+$ git clone https://github.com/vlad/planets.git ~/Desktop/vlad-planets
+```
+
+Note that "git clone" sets up the "remote" automatically
+
+Work in groups, pick one of your repository, all members of the groups should have a local copy.
+
+Everyone pull changes from the remote \(we are all on the same revision of the artefacts\)
+
+Action 1: everyone touches a \_different\_ file. commit, push. Observe how nicely it runs.
+
+Action 2: everyone touches the \_same file\_, observe push failure. Find out who "won" the commit race.
+
+All those who could not "push", must pull. Check the content of the conflicting files
+
+```text
+Cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD 
+We added a different line in the other copy
+=======
+This line added to Wolfman's copy
+>>>>>>> dabb4c8c450e8475aee9b14b4383acc99f42af1d
+```
+
+```text
+<<<<<<< HEAD 
+REMOTE REPOSITORY CONTENT OF THAT FILE, AT THAT POSITION
+=======
+LOCAL REPOSITORY CONTENT OF THAT FILE, AT THAT POSITION
+>>>>>>> dabb4c8c450e8475aee9b14b4383acc99f42af1d
+```
+
+Remove the tags, edit the content so that it makes sense. Commit, push. Check if the others were faster than you!
+
+## Notes:
+
+### Documentation:
+
+Leave a README file at the root of the repository. This file must contains a general description of the content of the repository. The README file indicates where the rest of the documentation is - or fully describes the project. Up to you! 
+
+Things to document:
+
+* What is the project about
+* Key technology used in the project \(programming language, tools used to compile/run\)
+* Foldering structure \(what's what in here\)
+* How to run, test, compile, execute content of the repository
+  * commands to run the tool
+  * where input/output files are located and what they contain
+  * how to compile your thesis ! \(if you use Latex\)
+
+### License:
+
+The code you will be putting in GitLab / GitHub may be private or public. Your choice. If made public, and with the intent of sharing it with others \(regardless of who they are\), you MUST pick a license for your work. 
+
+In general, use an open license, allowing others to do what they want with your code.  Worst license: no license \(basic copyright laws apply, and you can't find out what those are...\)
 
