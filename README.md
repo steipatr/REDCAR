@@ -8,5 +8,5 @@ description: >-
 
 ## Introduction
 
-![](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/project_idea.png)
+![](.gitbook/assets/project_idea.png)
 
