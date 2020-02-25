@@ -6,5 +6,5 @@ REproDucible ComputAtional Research or simply REDCAR is a project initiated by T
 
 It consists of a series of 3 hands-on workshops and interactive tutorials that are stored here.
 
-![](.gitbook/assets/project_idea.png)
+![](.gitbook/assets/project-idea.png)
 
