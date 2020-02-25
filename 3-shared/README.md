@@ -2,7 +2,5 @@
 
 ## Introduction
 
-
-
 ## Agenda
 
