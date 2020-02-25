@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](.gitbook/assets/workshop-2-content.png)
+
 
 ## Agenda
 

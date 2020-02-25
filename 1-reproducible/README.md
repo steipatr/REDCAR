@@ -1,7 +1,7 @@
 # Workshop 1 Reproducible
 
 ## Introduction
-![](.gitbook/assets/workshop-1-content.png)
+
 
 ## Agenda
 
