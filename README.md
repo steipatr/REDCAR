@@ -2,7 +2,9 @@
 
 ## Introduction
 
-REDCAR is a project initiated by TU Delft Humanitarian Technology Lab. REDCAR stands for REproDucible ComputAtional Research.
+REproDucible ComputAtional Research or REDCAR is a project initiated by TU Delft Humanitarian Technology Lab. 
+
+It consists of a series of 3 hands-on workshops and interactive tutorials that are stored here.
 
 ![](.gitbook/assets/project_idea.png)
 
