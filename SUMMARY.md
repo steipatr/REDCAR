@@ -1,6 +1,6 @@
 # Table of contents
 
-* [REDCAR](README.md)
+* [Starting page](README.md)
 * [Workshop 1 Reproducible](1-reproducible/README.md)
   * [Getting started with Git](1-reproducible/1.2-getting-started-with-git.md)
   * [Getting started with Anaconda](1-reproducible/1.1-getting-started-with-anaconda.md)
