@@ -1,7 +1,10 @@
 site_name: REDCAR
+repo_name: 'humtechlab/redcar'
+repo_url: 'https://github.com/mikhailsirenko/redcar/my-project/'
 theme:
   name: 'material'
   logo: 'images/logo.png'
   palette:
     primary: 'blue'
     accent: 'darkblue'
+
