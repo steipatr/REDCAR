@@ -1,0 +1,7 @@
+site_name: REDCAR
+theme:
+  name: 'material'
+  logo: 'images/logo.png'
+  palette:
+    primary: 'blue'
+    accent: 'darkblue'
