@@ -1,4 +1,2 @@
 # Google Colab
 
-Introduction
-

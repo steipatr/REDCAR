@@ -1,6 +1,6 @@
-# Workshop 2 Understandable
+# Workshop 2: Understandable
 
-## Introduction
+### Introduction
 
-## Agenda
+### Agenda
 
