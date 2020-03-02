@@ -1,6 +1,6 @@
 # Workshop 3 Shared
 
-### Introduction
+## Introduction
 
-### Agenda
+## Agenda
 

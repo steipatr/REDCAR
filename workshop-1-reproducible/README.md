@@ -7,10 +7,14 @@ The goal of this workshop is to introduce you a **step-wise approach** and a set
 We will start for setting up Anaconda Distribution. Today Anaconda Distribution is one of the most popular data science platforms. It's free and open-source and allows you easily install and configure Python and R programming languages, Jupyter Notebook, VS Code and Spyder IDEs and many more. The core of Anaconda Distribution is package management system called conda.
 
 {% hint style="info" %}
- ****🧙 **Tips:** If you're already familiar the tools that you're going to use you may want to install Miniconda \(lightweight version of Anaconda\) or RStudio separately.
+**\*\*🧙** Tips:\*\* If you're already familiar the tools that you're going to use you may want to install Miniconda \(lightweight version of Anaconda\) or RStudio separately.
 {% endhint %}
 
+When you're working on a data science project or a simulation study, it's essential to keep track of packages that you've used.
+
 You can also use tutorials as cheat sheets - whenever you need to start a new project, skim through or follow the instructions from beginning to the end.
+
+You can also use these tutorials as cheat sheets - whenever you need to start a new project, skim through or follow the instructions from beginning to the end.
 
 ## Agenda
 
