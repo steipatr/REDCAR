@@ -17,9 +17,17 @@ Depending on the type of study that you're doing there are different step-wise a
 
 ## Simulation study workflows
 
-The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics \(SD\), Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[[1](https://ieeexplore.ieee.org/abstract/document/6465109)\]\). With a modeling paradigm different approaches exist.
+The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics, Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[[1](https://ieeexplore.ieee.org/abstract/document/6465109)\]\). With a modeling paradigm different approaches exist. Let's take a closer look at them one by one.
+
+### System Dynamics
+
+### Discrete-event simulation
+
+### Agent-based modeling
+
+
 
 ## References
 
 1. Behdani B. Evaluation of paradigms for modeling supply chains as complex socio-technical systems. InProceedings of the 2012 Winter Simulation Conference \(WSC\) 2012 Dec 9 \(pp. 1-15\). IEEE.
-
+2. 
