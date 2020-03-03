@@ -18,16 +18,6 @@ As a result, more and more scholars have started to highlight the importance of 
 
 ## REDCAR
 
-To address these issues we linked three concepts into a system.
-
-Others will thank you and you will thank you.
-
-You won't remember what happened...
-
-Minimum requirement - you're able to reproduce results yourself
-
-It consists of a series of 3 hands-on workshops and interactive tutorials that are stored here.
-
 ## To be prepared
 
 To participate in the workshops you will need a laptop and a couple of tools installed. The preparation process will take less than 30 minutes.
@@ -43,7 +33,7 @@ That's it! All set now.
 
 ## Acknowledgements
 
-While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[\] made by _DrivenData friendly folks_, Reproducible Research module of Data Science Specialization \[\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
+While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[3\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[4\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
 We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbraeck_ for their input into the shaping of the project. 
 
@@ -51,4 +41,6 @@ We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbrae
 
 1. Sandve GK, Nekrutenko A, Taylor J, Hovig E. Ten simple rules for reproducible computational research. PLoS computational biology. 2013 Oct;9\(10\).
 2. Peng RD. Reproducible research in computational science. Science. 2011 Dec 2;334\(6060\):1226-7.
-3. 
+3. DrivenData. Cookiecutter Data Science. Available from [https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/) \[Accessed 03 March 2020\].
+4. Coursera Inc. Data Science Specialization. Available from [https://www.coursera.org/specializations/jhu-data-science](https://www.coursera.org/specializations/jhu-data-science) \[Accessed 03 March 2020\] 
+
