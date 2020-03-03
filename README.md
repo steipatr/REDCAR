@@ -4,9 +4,7 @@
 
 REproDucible ComputAtional Research or simply REDCAR is a project initiated by TU Delft [HumTechLab](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/). The goal of the project is to help students and researchers to make their computational results **reproducible**, more easily **understandable**, and **accessible to others**.
 
-<p align="center">
-  <img width="400" src=".gitbook/assets/project-idea-scaled.png">
-</p>
+![](.gitbook/assets/project-idea-scaled.png)
 
 ## Background
 
@@ -14,11 +12,13 @@ Big data, powerful computers, and programming languages such as Python and R bro
 
 Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to **decide between "quick-and-dirty"** **and reproducible research**, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study. As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
 
- But what do we mean by reproducible? In this project we will use definition introduced in \[[3](https://stm.sciencemag.org/content/8/341/341ps12.short?casa_token=VgB2iSv2JNkAAAAA:nEpwUfQh5c9LtRUjk7k3CNW99XUArjLuFcwBRgdVYUnIWHifsZLnrtxvEfCFcYk4V2yehf7Sg-LC6sA)\]:
+But what do we mean by reproducible? In this project we will use definition introduced in \[[3](https://stm.sciencemag.org/content/8/341/341ps12.short?casa_token=VgB2iSv2JNkAAAAA:nEpwUfQh5c9LtRUjk7k3CNW99XUArjLuFcwBRgdVYUnIWHifsZLnrtxvEfCFcYk4V2yehf7Sg-LC6sA)\]:
 
 > _"The ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."_
 
-It means that we won't talk about [_empirical reproducibility_](https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852)_,_ [_statistical reproducibility_](https://science.sciencemag.org/content/343/6168/229) __but instead [_computational reproducibility_](https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf) \[[4](https://aip.scitation.org/doi/abs/10.1109/MCSE.2012.82?journalCode=csx)\]. 
+It means that we won't talk about [empirical](https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852) or [_statistical_](https://science.sciencemag.org/content/343/6168/229) __reproducibility but instead [_computational reproducibility_](https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf) \[[4](https://aip.scitation.org/doi/abs/10.1109/MCSE.2012.82?journalCode=csx)\].
+
+It means that we won't talk about [_empirical reproducibility_](https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852)_,_ [_statistical reproducibility_](https://science.sciencemag.org/content/343/6168/229) _\_but instead \[\_computational reproducibility_\]\([https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf](https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf)\) \[[4](https://aip.scitation.org/doi/abs/10.1109/MCSE.2012.82?journalCode=csx)\].
 
 Alright. Now you understand what reproducibility is and what it's important. But what are the ways to ensure it? In short, you need to follow the rules described in \[[2](https://science.sciencemag.org/content/334/6060/1226)\], and use the tools and practices that were developed for that \(see, e.g., \[[5](https://books.google.nl/books?hl=en&lr=&id=JcmSAwAAQBAJ&oi=fnd&pg=PP1&dq=implementing+reproducible+research&ots=ym1btRtPJE&sig=tR2_-mmsrsZUwXwEHXYIrYz_HT4&redir_esc=y#v=onepage&q=implementing%20reproducible%20research&f=false)\]\). But in the REDCAR project, you'll find a bit more than that.
 
@@ -51,7 +51,7 @@ _Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicola
 
 While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[4](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[5](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
-We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ and _Bartel Van de Walle_ for their input into the shaping of the project. 
+We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ and _Bartel Van de Walle_ for their input into the shaping of the project.
 
 ## References
 
