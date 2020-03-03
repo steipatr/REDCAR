@@ -22,7 +22,7 @@ Alright. Now you understand what reproducibility is and what it's important. But
 
 ## REDCAR
 
-With the REDCAR project, we're aimed at achieving more than reproducibility 🧞♂. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: **understandable** and **shared** \(see Figure 1\).
+With the REDCAR project, we're aimed at achieving more than reproducibility 🧞. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: **understandable** and **shared** \(see Figure 1\).
 
 We linked all these three components into a system.
 
