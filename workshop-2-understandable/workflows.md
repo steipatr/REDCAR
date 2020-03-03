@@ -2,7 +2,7 @@
 
 Depending on the type of study that you're doing there are different step-wise approaches or workflows to follow. The first important distinction should be made between a data science and a simulation study.
 
-## Data science workflow
+## Data science workflows
 
 | **№** | **CRISP-DM** | **OSEMN** |  **Geron \(2017\)** |
 | :--- | :--- | :--- | :--- |
