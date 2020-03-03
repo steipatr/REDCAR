@@ -12,7 +12,13 @@ Big data, powerful computers, and programming languages such as Python and R bro
 
 Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to decide between "quick-and-dirty" and reproducible research, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study.
 
-As a result, more and more scholars have started to highlight the importance of reproducibility and propose ways to achieve it \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
+As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
+
+But what do we mean by reproducible? In this project we will use definition introduced in \[[3](https://stm.sciencemag.org/content/8/341/341ps12.short?casa_token=VgB2iSv2JNkAAAAA:nEpwUfQh5c9LtRUjk7k3CNW99XUArjLuFcwBRgdVYUnIWHifsZLnrtxvEfCFcYk4V2yehf7Sg-LC6sA)\]:
+
+> "The ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."
+
+
 
 ## REDCAR
 
@@ -31,7 +37,7 @@ That's it! All set now.
 
 ## Acknowledgements
 
-While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[3](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[4](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
+While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[4](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[5](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
 We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbraeck_ for their input into the shaping of the project. 
 
@@ -39,6 +45,7 @@ We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbrae
 
 1. Sandve GK, Nekrutenko A, Taylor J, Hovig E. Ten simple rules for reproducible computational research. PLoS computational biology. 2013 Oct;9\(10\).
 2. Peng RD. Reproducible research in computational science. Science. 2011 Dec 2;334\(6060\):1226-7.
-3. DrivenData. Cookiecutter Data Science. Available from [https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/) \[Accessed 03 March 2020\].
-4. Coursera Inc. Data Science Specialization. Available from [https://www.coursera.org/specializations/jhu-data-science](https://www.coursera.org/specializations/jhu-data-science) \[Accessed 03 March 2020\] 
+3. Goodman SN, Fanelli D, Ioannidis JP. What does research reproducibility mean?. Science translational medicine. 2016 Jun 1;8\(341\):341ps12-.
+4. DrivenData. Cookiecutter Data Science. Available from [https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/) \[Accessed 03 March 2020\].
+5. Coursera Inc. Data Science Specialization. Available from [https://www.coursera.org/specializations/jhu-data-science](https://www.coursera.org/specializations/jhu-data-science) \[Accessed 03 March 2020\] 
 
