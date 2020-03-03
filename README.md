@@ -6,17 +6,25 @@ REproDucible ComputAtional Research or simply REDCAR is a project initiated by T
 
 ![](.gitbook/assets/project-idea.png)
 
-## Problem
+## Background
 
-Availability of new data, increased computational power and widespread of computational notebooks brought quantitative research to a whole new level. Now, using high-level programming languages such as Python scholars are able to perform an extensive analysis supervised with interactive plots.
+Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm on data set of 100K data points in 5 lines of code.
 
-Read more on challenges in reproducible research [here](https://www.nature.com/collections/prbfkwmwvz).
+Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to decide between "quick-and-dirty" and reproducible research, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study.
 
-## Solution
+As a result, more and more scholars have started to highlight the importance of reproducibility and propose ways to achieve it \[1, 2\].
+
+
+
+## REDCAR
 
 To address these issues we linked three concepts into a system.
 
-## Project
+Others will thank you and you will thank you.
+
+You won't remember what happened...
+
+Minimum requirement - you're able to reproduce results yourself
 
 It consists of a series of 3 hands-on workshops and interactive tutorials that are stored here.
 
@@ -35,5 +43,12 @@ That's it! All set now.
 
 ## Acknowledgements
 
+While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[\] made by _DrivenData friendly folks_, Reproducible Research module of Data Science Specialization \[\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
+
+We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbraeck_ for their input into the shaping of the project. 
+
 ## References
 
+1. Sandve GK, Nekrutenko A, Taylor J, Hovig E. Ten simple rules for reproducible computational research. PLoS computational biology. 2013 Oct;9\(10\).
+2. Peng RD. Reproducible research in computational science. Science. 2011 Dec 2;334\(6060\):1226-7.
+3. 
