@@ -12,7 +12,7 @@ Big data, powerful computers, and programming languages such as Python and R bro
 
 Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to decide between "quick-and-dirty" and reproducible research, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study.
 
-As a result, more and more scholars have started to highlight the importance of reproducibility and propose ways to achieve it \[1, 2\].
+As a result, more and more scholars have started to highlight the importance of reproducibility and propose ways to achieve it \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
 
 ## REDCAR
 
@@ -31,7 +31,7 @@ That's it! All set now.
 
 ## Acknowledgements
 
-While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[3\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[4\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
+While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[3](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[4](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
 We also would like to thank _Jan Kwakkel_, _Igor Nikolic_ and _Alexander Verbraeck_ for their input into the shaping of the project. 
 
