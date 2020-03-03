@@ -14,8 +14,6 @@ Along with the opportunities, such a technological leap brought complications. S
 
 As a result, more and more scholars have started to highlight the importance of reproducibility and propose ways to achieve it \[1, 2\].
 
-
-
 ## REDCAR
 
 ## To be prepared
