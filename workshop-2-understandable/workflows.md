@@ -17,7 +17,7 @@ Depending on the type of study that you're doing there are different step-wise a
 
 ## Simulation study workflows
 
-The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics \(SD\), Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[1\]\). With a modeling paradigm different approaches exist.
+The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics \(SD\), Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[[1](https://ieeexplore.ieee.org/abstract/document/6465109)\]\). With a modeling paradigm different approaches exist.
 
 ## References
 
