@@ -4,9 +4,7 @@
 
 REproDucible ComputAtional Research or simply REDCAR is a project initiated by TU Delft [HumTechLab](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/). The goal of the project is to help students and researchers to make their computational results **reproducible**, more easily **understandable**, and **accessible to others**.
 
-<p align="center">
-  <img width="400" src=".gitbook/assets/project-idea.png">
-</p>
+![Figure 1. Project idea](.gitbook/assets/project-idea.png)
 
 ## Background
 
