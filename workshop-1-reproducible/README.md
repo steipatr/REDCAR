@@ -4,7 +4,7 @@
 
 The goal of this workshop is to introduce you a **step-wise approach** and a set of **tools** for conducting reproducible computational research.
 
-By reproducible here we mean . 
+### Anaconda Distribution
 
 We will start by setting up an Anaconda Distribution. Today, Anaconda Distribution is one of the most popular data science software management platforms. It's free and open-source and allows you easily install and configure Python and R programming languages, Jupyter Notebook, VS Code and Spyder IDEs, and much more. The core of Anaconda Distribution is package management system called conda.
 
@@ -14,9 +14,11 @@ We will start by setting up an Anaconda Distribution. Today, Anaconda Distributi
 
 When you're working on a data science project or a simulation study it's essential to keep track of all packages that you have used. Moreover, their versions are also important. The solution is to create a **virtual environment**.
 
-The second part of the workshop 
+### Git and GitHub
 
-Finally,
+The second hands-on will be dedicated to version control, Git and GitHub.
+
+In third part of the workshop we will introduce you some 🍪 for JupyterLab. It will simplify the process of you interacting with Git and GitHub.
 
 You can also use these tutorials as cheat sheets - whenever you need to start a new project, skim through or follow the instructions from beginning to the end.
 

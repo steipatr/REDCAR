@@ -8,7 +8,7 @@ REproDucible ComputAtional Research or simply REDCAR is a project initiated by T
 
 ## Background
 
-Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm to train a car or a drone to become automated with 2 lines of code \([proof](https://drive.google.com/file/d/13pEtv7Fox14mz7hDAqo5jsq_KI0CjCZE/view)\).
+Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm to train a car or a drone to become automated with 2 lines of code \([proof](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/ml.png)\).
 
 Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to **decide between "quick-and-dirty"** **and reproducible research**, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study. As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
 
@@ -22,11 +22,13 @@ Alright. Now you understand what reproducibility is and what it's important. But
 
 ## REDCAR
 
-With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: **understandable** and **shared** \(see Figure 1\). Understandable here stands for how easily others can follow the work that you have done. For example, if your project folder looks like this, then "Houston, we have a problem." The same holds for the code
+With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: understandable and shared \(see Figure 1\). 
 
-, then Houston, we have a problem 
+Understandable here stands for how easily others can figure out that you have done. For example, if your project folder looks like [this](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/folder-mess.png), then "Houston, we have a problem." The same holds for the code. It's much easier to reuse and modify a program that was written in compliance with coding standards. You met two variables `d = 5` and `elapsed_time_in_days = 5`. Which one is better?
 
-We linked all these 3 components into a system.
+If you want to share the results of your computational research, there may be no need to install Anaconda Distribution or NetLogo. Instead, you can use such instruments as Binder Project, Google Colab or NetLogo Web. All of them allow a person to execute the code in the cloud and, therefore, significantly simply the process sharing and collaboration.
+
+‌We linked all these 3 components into a system and supervised them with tools and practices. 
 
 ## To be prepared
 
