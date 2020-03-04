@@ -20,7 +20,7 @@ The second hands-on will be dedicated to version control, Git and GitHub.
 
 ### JupyterLab Git extension 
 
-In third part of the workshop we will introduce you some 🍪 for JupyterLab. It will simplify the process of you interacting with Git and GitHub.
+In third part of the workshop we will introduce you some 🍪 \(cool additions\) for JupyterLab. It will simplify the process of you interacting with Git and GitHub.
 
 Take a look [here](https://github.com/mauhai/awesome-jupyterlab) for other nice extensions. For example, [table of contents](https://github.com/ian-r-rose/jupyterlab-toc). We found it extremely handy for navigating through long notebooks.
 
