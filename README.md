@@ -4,9 +4,7 @@
 
 REproDucible ComputAtional Research or simply REDCAR is a project initiated by TU Delft [HumTechLab](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/research/humtech-lab/humtech-lab/). The goal of the project is to help students and researchers to make their computational results **reproducible**, more easily **understandable**, and **accessible to others**.
 
-<p align="center">
-  <img width="350" src=".gitbook/assets/project-idea.png">
-</p>
+![](.gitbook/assets/project-idea.png)
 
 ## Background
 
@@ -24,7 +22,7 @@ Alright. Now you understand what reproducibility is and what it's important. But
 
 ## REDCAR
 
-With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: understandable and shared \(see Figure on top\). 
+With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: understandable and shared \(see Figure on top\).
 
 Understandable here stands for how easily others can figure out that you have done. For example, if your project folder looks like [this](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/folder-mess.png), then "Houston, we have a problem." The same holds for the code. It's much easier to reuse and modify a program that was written in compliance with coding standards. You met two variables `d = 5` and `elapsed_time_in_days = 5`. Which one is better?
 
@@ -32,24 +30,24 @@ If you want to share the results of your computational research, there may be no
 
 ‌We linked all these 3 components into a system and supervised them with tools and practices. They are distributed across 3 workshops and can be found in the directories with corresponding names. By following the workshops in a sequential manner, you will ensure that your research a\). reproducible, b\). more easily understandable, c\). accessible to others.
 
-```
+```text
 ├── 1-reproducible
-│   ├── 1.1-getting-started-anaconda.md      <- Create virtual environment and example project structure
-│   ├── 1.2-getting-started-git.md           <- Learn the basics of Git and GitHub 
-│   ├── 1.3-git-extension-jupyterlab.md      <- Setup JupyterLab extensions to make life easier
+│   ├── 1.1-get-started-anaconda.md   <- Create virtual environment and example project structure
+│   ├── 1.2-get-started-git.md        <- Learn the basics of Git and GitHub 
+│   ├── 1.3-git-jupyterlab.md         <- Setup JupyterLab extensions to make life easier
 │
 ├── 2-understandable          
-│   ├── 2.1-workflows.md                     <- Get to know workflows for data science and simulation studies 
-│   ├── 2.2-better-code-better-you.md        <- Practice standards, conventions and common sense 
-│   ├── 2.3-case-study.md                    <- Try it all on a case study
+│   ├── 2.1-workflows.md              <- Workflows for data science and simulation studies 
+│   ├── 2.2-better-code.md            <- Practice standards, conventions and common sense 
+│   ├── 2.3-case-study.md             <- Try it all on a case study
 │
 ├── 3-shared                 
-│   ├── 3.1-setting-up-binder.md             <- Make MyBinder.org work with your repo 
-│   ├── 3.2-google-colab.md                  <- Try Google Colab as an alternative 
-│   ├── 3.3-aws-s3.md                        <- Store your large data set on AWS servers
+│   ├── 3.1-setup-binder.md           <- Make MyBinder.org work with your repo 
+│   ├── 3.2-colaboratory.md           <- Try Google Colab as an alternative 
+│   ├── 3.3-aws-s3.md                 <- Store your large data set on AWS servers
 ```
 
-To get the maximum of the project we invite you to come and participate in the hands-on exercises. But if didn't work, get hands dirty with tutorials by yourself💪 . We tried to make them as clear possible so they can serve as cheat sheets as well. Forgot something: just open the book and follow the instructions. 
+To get the maximum of the project we invite you to come and participate in the hands-on exercises. But if didn't work, get hands dirty with tutorials by yourself💪 . We tried to make them as clear possible so they can serve as cheat sheets as well. Forgot something: just open the book and follow the instructions.
 
 ## To be prepared
 
@@ -64,7 +62,7 @@ That's it! All set now.
 
 We're highly interested in your opinion on the project! To contribute please, either fork it and submit a pull request, or contact us via Twitter or email.
 
-_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner, Jason Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV).
+_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner @, Jason Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV).
 
 ## License
 
