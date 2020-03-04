@@ -2,7 +2,7 @@
 
 Finally, let's look at how Git works inside JupyterLab. While there are many visual interfaces, this one integrates with your Notebook workflow.
 
-![](../.gitbook/assets/687474703a2f2f672e7265636f726469742e636f2f4e39496b7a62796b38502e676966.gif)
+![](../.gitbook/assets/jupyter-lab.gif)
 
 Git for JupyterLab is an official Jupyter Lab extension. To get it working, open your Anaconda Prompt \(or Terminal on macOS\) and type in:
 
