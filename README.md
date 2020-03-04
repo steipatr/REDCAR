@@ -44,7 +44,7 @@ If you want to share the results of your computational research, there may be no
 ├── 3-shared                 
 │   ├── 3.1-setting-up-binder.md             <- Make MyBinder.org work with your repo 
 │   ├── 3.2-google-colab.md                  <- Try Google Colab as an alternative 
-│   ├── 3.3-aws-s3.md                        <- Store your large data set with AWS
+│   ├── 3.3-aws-s3.md                        <- Store your large data set on AWS servers
 ```
 
 To get the maximum of the project we invite you to come and participate in the hands-on exercises. But if didn't work, get hands dirty with tutorials by yourself💪 . We tried to make them as clear possible so they can serve as cheat sheets as well. Forgot something: just open the book and follow the instructions. 
