@@ -37,9 +37,9 @@ If you want to share the results of your computational research, there may be no
 │   ├── 1.3-git-extension-jupyterlab.md      <- Setup JupyterLab extensions to make life easier
 │
 ├── 2-understandable          
-│   ├── 2.1-workflows.md                     <- Get to know the most popular workflows for data science and simulation studies 
-│   ├── 2.2-better-code-better-you.md        <- Learn how to write better code: standards, conventions and common sense 
-│   ├── 2.3-case-study.md                    <- Try it on a case study
+│   ├── 2.1-workflows.md                     <- Get to know workflows for data science and simulation studies 
+│   ├── 2.2-better-code-better-you.md        <- Practice standards, conventions and common sense 
+│   ├── 2.3-case-study.md                    <- Try it all on a case study
 │
 ├── 3-shared                 
 │   ├── 3.1-setting-up-binder.md             <- Make MyBinder.org work with your repo 
