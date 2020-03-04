@@ -26,9 +26,13 @@ With the REDCAR project, we're aimed at achieving more than reproducibility 😎
 
 Understandable here stands for how easily others can figure out that you have done. For example, if your project folder looks like [this](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/folder-mess.png), then "Houston, we have a problem." The same holds for the code. It's much easier to reuse and modify a program that was written in compliance with coding standards. You met two variables `d = 5` and `elapsed_time_in_days = 5`. Which one is better?
 
-If you want to share the results of your computational research, there may be no need to install Anaconda Distribution or NetLogo. Instead, you can use such instruments as Binder Project, Google Colab or NetLogo Web. All of them allow a person to execute the code in the cloud and, therefore, significantly simply the process sharing and collaboration.
+If you want to share the results of your computational research, there may be no need to install Anaconda Distribution or NetLogo. Instead, you can use such instruments as [Binder Project](https://mybinder.org/), [Google Colab](https://colab.research.google.com/) or [NetLogo Web](https://netlogoweb.org/). All of them allow a person to execute the code in the cloud and therefore significantly simplify the process sharing and collaboration.
 
-‌We linked all these 3 components into a system and supervised them with tools and practices. They are distributed across.
+‌We linked all these 3 components into a system and supervised them with tools and practices. They are distributed across 3 workshops and can be found in the directories with corresponding names. By following the workshops in a sequential manner, you will ensure that your research a\). reproducible, b\). more easily understandable, c\). accessible to others.
+
+
+
+To get the maximum of the project we invite you to come and participate in the hands-on exercises. But if didn't work, get hands dirty with tutorials by yourself💪 . We tried to make them as clear possible so they can serve as cheat sheets as well. Forgot something: just open the book and follow the instructions. 
 
 ## To be prepared
 
