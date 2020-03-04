@@ -47,7 +47,7 @@ _Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicola
 
 ## Acknowledgements
 
-While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[4](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[5](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
+While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[6](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[7](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
 We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ and _Bartel Van de Walle_ for their input into the shaping of the project.
 
