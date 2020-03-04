@@ -7,11 +7,6 @@ REproDucible ComputAtional Research or simply REDCAR is a project initiated by T
 <p align="center">
   <img width="350" src=".gitbook/assets/project-idea.png">
 </p>
-<p align="center">
-  <em>Figure 1. Project idea</em>
-</p>
-
-
 
 ## Background
 
@@ -29,7 +24,7 @@ Alright. Now you understand what reproducibility is and what it's important. But
 
 ## REDCAR
 
-With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: understandable and shared \(see Figure 1\). 
+With the REDCAR project, we're aimed at achieving more than reproducibility 😎. We realize how important is the **structure** of the study, **code formatting**, and whether it's **easily accessible** by other researchers or the general public. We translated these additional principles into 2 extra components: understandable and shared \(see Figure on top\). 
 
 Understandable here stands for how easily others can figure out that you have done. For example, if your project folder looks like [this](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/folder-mess.png), then "Houston, we have a problem." The same holds for the code. It's much easier to reuse and modify a program that was written in compliance with coding standards. You met two variables `d = 5` and `elapsed_time_in_days = 5`. Which one is better?
 
