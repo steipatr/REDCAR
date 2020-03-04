@@ -8,7 +8,7 @@ REproDucible ComputAtional Research or simply REDCAR is a project initiated by T
 
 ## Background
 
-Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm to train a car or a drone to become automated with 2 lines of code \([proof](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/ml.png)\).
+Big data, powerful computers, and programming languages such as Python and R brought quantitative research to a whole new level. Now you can apply a machine learning algorithm to train a car or a drone to become automated with 2 lines of code \([proof](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/ml.jpg)\).
 
 Along with the opportunities, such a technological leap brought complications. Scientists became overwhelmed with all details that should be taken into account while conducting a computational study. Given the pressure from the deadlines, they are forced to **decide between "quick-and-dirty"** **and reproducible research**, not in favor of the latter. Manual corrections of the raw data, conflicting versions of software packages, lack of instructions on how the code should be executed, making it hard if not impossible to reproduce results of a computational study. As a result, more and more scholars have started to highlight the importance of **reproducibility**, propose ways to achieve it and pose it **as a minimum standard** **for assessing the value of scientific claims** \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285),[2](https://science.sciencemag.org/content/334/6060/1226)\].
 
