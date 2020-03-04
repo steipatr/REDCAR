@@ -28,7 +28,7 @@ Understandable here stands for how easily others can figure out that you have do
 
 If you want to share the results of your computational research, there may be no need to install Anaconda Distribution or NetLogo. Instead, you can use such instruments as Binder Project, Google Colab or NetLogo Web. All of them allow a person to execute the code in the cloud and, therefore, significantly simply the process sharing and collaboration.
 
-‌We linked all these 3 components into a system and supervised them with tools and practices. 
+‌We linked all these 3 components into a system and supervised them with tools and practices. They are distributed across.
 
 ## To be prepared
 
