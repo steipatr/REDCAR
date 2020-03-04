@@ -16,7 +16,7 @@ But what do we mean by reproducible? In this project we will use definition intr
 
 > _"The ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."_
 
-It means that we won't talk about [_empirical_](https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852) or [_statistical_](https://science.sciencemag.org/content/343/6168/229) reproducibility but instead [_computational reproducibility_](https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf) \[[4](https://aip.scitation.org/doi/abs/10.1109/MCSE.2012.82?journalCode=csx)\].
+We won't talk about [_empirical_](https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852) or [_statistical_](https://science.sciencemag.org/content/343/6168/229) reproducibility but instead [_computational reproducibility_](https://web.stanford.edu/~vcs/talks/Census2017-STODDEN.pdf) \[[4](https://aip.scitation.org/doi/abs/10.1109/MCSE.2012.82?journalCode=csx)\].
 
 Alright. Now you understand what reproducibility is and what it's important. But what are the ways to ensure it? In short, you need to follow the rules described in \[[1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)\], and use the tools and practices that were developed for that \(see, e.g., \[[5](https://books.google.nl/books?hl=en&lr=&id=JcmSAwAAQBAJ&oi=fnd&pg=PP1&dq=implementing+reproducible+research&ots=ym1btRtPJE&sig=tR2_-mmsrsZUwXwEHXYIrYz_HT4&redir_esc=y#v=onepage&q=implementing%20reproducible%20research&f=false)\]\). But in the REDCAR project, you'll find a bit more than that.
 
