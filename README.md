@@ -30,7 +30,22 @@ If you want to share the results of your computational research, there may be no
 
 ‌We linked all these 3 components into a system and supervised them with tools and practices. They are distributed across 3 workshops and can be found in the directories with corresponding names. By following the workshops in a sequential manner, you will ensure that your research a\). reproducible, b\). more easily understandable, c\). accessible to others.
 
-
+```
+├── 1-reproducible
+│   ├── 1.1-getting-started-anaconda.md      <- Create virtual environment and example project structure
+│   ├── 1.2-getting-started-git.md           <- Learn the basics of Git and GitHub 
+│   ├── 1.3-git-extension-jupyterlab.md      <- Setup JupyterLab extensions to make life easier
+│
+├── 2-understandable          
+│   ├── 2.1-workflows.md                     <- Get to know the most popular workflows for data science and simulation studies 
+│   ├── 2.2-better-code-better-you.md        <- Learn how to write better code: standards, conventions and common sense 
+│   ├── 2.3-case-study.md                    <- Try it on a case study
+│
+├── 3-shared                 
+│   ├── 3.1-setting-up-binder.md             <- Make MyBinder.org work with your repo 
+│   ├── 3.2-google-colab.md                  <- Try Google Colab as an alternative 
+│   ├── 3.3-aws-s3.md                        <- Store your large data set with AWS
+```
 
 To get the maximum of the project we invite you to come and participate in the hands-on exercises. But if didn't work, get hands dirty with tutorials by yourself💪 . We tried to make them as clear possible so they can serve as cheat sheets as well. Forgot something: just open the book and follow the instructions. 
 
