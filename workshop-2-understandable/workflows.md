@@ -21,7 +21,13 @@ The first question to ask is what simulation paradigm are you following? If you 
 
 ### System Dynamics
 
+![ Figure 1. Overview of the SD modeling approach according to Richardson and Pugh \[\]](../.gitbook/assets/sd-richardson.png)
+
 ### Discrete-event simulation
+
+![](../.gitbook/assets/des-analysis-verbraeck.png)
+
+![](../.gitbook/assets/des-design-verbraeck.png)
 
 ### Agent-based modeling
 
@@ -30,4 +36,5 @@ The first question to ask is what simulation paradigm are you following? If you 
 ## References
 
 1. Behdani B. Evaluation of paradigms for modeling supply chains as complex socio-technical systems. InProceedings of the 2012 Winter Simulation Conference \(WSC\) 2012 Dec 9 \(pp. 1-15\). IEEE.
-2. 
+2. Richardson GP, Pugh III AI. Introduction to system dynamics modeling with DYNAMO. Productivity Press Inc.; 1981 Jan 1.
+
