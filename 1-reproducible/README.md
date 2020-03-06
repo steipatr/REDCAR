@@ -20,6 +20,12 @@ The new version of a library may not have a function that you have used or resul
 
 After you finished working on the project, you can dump all packages that you have used into a single file. Pass it to anyone and she or he will be able to recreate your virtual environment and run the code!
 
+Pip installs only Python packages whereas conda installs packages which may contain software written in any language. Read more about the differences [here](https://www.anaconda.com/understanding-conda-and-pip/).
+
+{% hint style="warning" %}
+\*\*\*\*🧠 **Note:** Rule of thumb is to first to use `conda install <package_name>` and if it didn't work `pip install <package_name>`. Many Python packages currently have complex dependencies that won't be properly handled by pip.
+{% endhint %}
+
 ### Git and GitHub
 
 The part is dedicated to version control with Git and GitHub. 
