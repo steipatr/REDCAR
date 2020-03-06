@@ -53,16 +53,18 @@ To get the maximum of the project we invite you to come and participate in the h
 
 To participate in the workshops you will need a laptop and a couple of tools installed. The preparation process will take less than 30 minutes.
 
-1. Download and install Anaconda Distribution with Python 3.7 from [here](https://www.anaconda.com/distribution/). The process is pretty straightforward: select your operating system, download installer and follow the steps. If you already have it, make sure that it works by running any script in JupyterLab \(that's the IDE that we will work in\). If you prefer to use R programming language - no problem! After installing Anaconda Distribution, open it and install RStudio. To use R in Jupyter Notebook follow [this](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/) simple tutorial. 
-2. Install Git from [here](https://git-scm.com/downloads). The same principle works here: select your operating system and follow the steps.
+* [ ] Download and install Anaconda Distribution with Python 3.7 from here. The process is pretty straightforward: select your operating system, download installer and follow the steps. If you already have it, make sure that it works by running any script in JupyterLab \(that's the IDE that we will work in\). If you prefer to use R programming language - no problem! After installing Anaconda Distribution, open it and install RStudio. To use R in Jupyter Notebook follow this simple tutorial.
+* [ ] Install Git from here. The same principle works here: select your operating system and follow the steps.
 
+{% hint style="success" %}
 That's it! All set now.
+{% endhint %}
 
 ## Contributing & authors
 
 We're highly interested in your opinion on the project! To contribute please, either fork it and submit a pull request, or contact us via Twitter or email.
 
-_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner, Jason R. Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV).
+_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner, Jason R. Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV), _Bartel Van de Walle_ [_@bvdwalle_](https://twitter.com/bvdwalle).
 
 ## License
 
@@ -72,7 +74,7 @@ _Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicola
 
 While working on this project the REDCAR project team was inspired by Cookiecutter Data Science \[[6](https://drivendata.github.io/cookiecutter-data-science/)\] made by _friendly folks at DrivenData_ , Reproducible Research module of Data Science Specialization \[[7](https://www.coursera.org/specializations/jhu-data-science)\] by _Jeff Leek_, _Roger D. Peng_ and _Brian Caffo_.
 
-We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ and _Bartel Van de Walle_ for their input into the shaping of the project.
+We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ for their input into the shaping of the project.
 
 ## References
 
