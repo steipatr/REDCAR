@@ -5,6 +5,7 @@
   * [Getting started with Anaconda](1-reproducible/1.1-get-started-anaconda.md)
   * [Getting started with Git](1-reproducible/1.2-get-started-git.md)
   * [Setting up Git extension for JupyterLab](1-reproducible/1.3-git-extension-jupyterlab.md)
+  * [Setting up Jupyter Notebooks in VS Code](1-reproducible/1.4-vscode-jupyter.md)
 * [Workshop 2: Understandable](2-understandable/README.md)
   * [Workflows](2-understandable/2.1-workflows.md)
   * [Better code, better you](2-understandable/2.2-better-code.md)
