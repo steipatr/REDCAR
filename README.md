@@ -55,7 +55,6 @@ To participate in the workshops you will need a laptop and a couple of tools ins
 
 * [ ] Download and install Anaconda Distribution with Python 3.7 from here. The process is pretty straightforward: select your operating system, download installer and follow the steps. If you already have it, make sure that it works by running any script in JupyterLab \(that's the IDE that we will work in\). If you prefer to use R programming language - no problem! After installing Anaconda Distribution, open it and install RStudio. To use R in Jupyter Notebook follow this simple tutorial.
 * [ ] Install Git from here. The same principle works here: select your operating system and follow the steps.
-* [ ] Create a GitHub a account [here](https://github.com/join?source=header-home). Don't forget about [GitHub Student Developer Pack](https://education.github.com/pack). It provides free access and discounts to plenty of services and tools. 
 
 {% hint style="success" %}
 That's it! All set now.
@@ -65,7 +64,7 @@ That's it! All set now.
 
 We're highly interested in your opinion on the project! To contribute please, either fork it and submit a pull request, or contact us via Twitter or email.
 
-_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner, Jason R. Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV), _Bartel Van de Walle_ [@bvdwalle](https://twitter.com/bvdwalle).
+_Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicolas Dintzner, Jason R. Wang_ [@jasonrwang](https://twitter.com/jasonrwang) and _Trivik Verma_ [@TrivikV](https://twitter.com/TrivikV), _Bartel Van de Walle_ [_@bvdwalle_](https://twitter.com/bvdwalle).
 
 ## License
 
