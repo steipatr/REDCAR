@@ -22,15 +22,13 @@ After you finished working on the project, you can dump all packages that you ha
 
 ### Git and GitHub
 
-The part is dedicated to version control with Git and GitHub. 
+The part is dedicated to version control with Git and GitHub. Why version control?
 
-Why version control?
-
-![Figure 1. How many time you have followed the third path?](../.gitbook/assets/version-control.png)
+![](../.gitbook/assets/version-control.png)
 
 Yon can always **separate** your experimental **work** from the main one. If you broke something there, it won't affect the project. Also, you can **rollback** to the work that you have done long time before. You made a mistake and want recover the previous version. No probs! Finally, **group work**. No need to say to a group member: "Hey! Can you wait for a while until I'll finish my work?" Work independently and then perform a magic `merge` command.
 
-![Figure 2. Git merge can be give your project new cool features.  ](../.gitbook/assets/merge.png)
+![](../.gitbook/assets/merge.png)
 
 More formally \[[2](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)\]:
 
@@ -44,7 +42,7 @@ GitHub, in its turn, provides hosting for Git.
 \*\*\*\*🧙 **Tips:** If you're a student, got and get your [GitHub Student Developer Pack](https://education.github.com/pack). It provides free access and discounts for 
 {% endhint %}
 
-In 2018, Microsoft bought GitHub \[[3](https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/)\]. As a result, the debates have started: privacy, politics and so on. Just so you know there are similar services such as [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/product). If you want to switch to one of them, the process will be mostly smooth, since they are based on the same Git principles.
+In 2018, Microsoft bought GitHub \[[3](https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/)\]. As a result, the debates have started: privacy, politics and so on. Just so you know there are similar services such as GitLab, BitBucket. If you want to switch to one of these services, the process will be mostly smooth since they based on the same Git principles.
 
 {% hint style="info" %}
  ****🧙 **Tips:** After you got familiar with Git Bash \(yes, it's important!\) you may want to explore alternatives that have some visual interface. Take a look at [VS Code](https://code.visualstudio.com/) \(nice Git integration\) or [Git Kraken](https://www.gitkraken.com/) \(cool branches visualizations\).
@@ -54,8 +52,8 @@ In 2018, Microsoft bought GitHub \[[3](https://blogs.microsoft.com/blog/2018/10/
 
 In third part of the workshop we will introduce you some 🍪 \(cool additions\) for JupyterLab. It will simplify the process of you interacting with Git and GitHub.
 
-{% hint style="warning" %}
-\*\*\*\*🧠 **Note:** After you installed Anaconda Distribution there is no need to open it, if you want just launch JupyterLab. The faster option is to open Anaconda Prompt \(or just Command Prompt if you're Mac user\) and type `jupyter lab`.
+{% hint style="info" %}
+\*\*\*\*🧙**Tips:** After you installed Anaconda Distribution there is no need to open it, if you want just launch Jupyter Lab. The faster option is to open Anaconda Prompt \(or just Command Prompt if you're Mac user\) and type `jupyter lab`.
 {% endhint %}
 
 Take a look [here](https://github.com/mauhai/awesome-jupyterlab) for other nice extensions. For example, [table of contents](https://github.com/ian-r-rose/jupyterlab-toc). We found it extremely handy for navigating through long notebooks.
