@@ -56,7 +56,7 @@ Alright! Instead of conducting a data science project, you decided to conduct a 
 
 ![What kind of simulation study fit the best?](../.gitbook/assets/sim_studies.png)
 
-Without a doubt, there are other important paradigms, but let's focus on these ones. 
+Without a doubt, there are other important paradigms, but let's focus on these ones. Struggling with selecting? Take a look here at the work of Behdani \(2012\).
 
 Kelton et al. \(2011\) proposed do differentiate the following steps in any simulation study:
 
