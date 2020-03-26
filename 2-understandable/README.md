@@ -10,11 +10,11 @@ The goals of the second workshop are:
 
 ### Workflows
 
-Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work 👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
+Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
 
 > _"Workflow is an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information."_
 
-Even though different domains require domain-specific knowledge to define a workflow and follow it, there are certain similarities across problem-oriented workflows. You start with a problem, do something in the middle and propose a solution or an insight at the end 👨🎓. Here is a [great example](https://www.forbes.com/sites/artcarden/2011/07/14/underpants-gnomes-political-economy/):
+Even though different domains require domain-specific knowledge to define a workflow and follow it, there are certain similarities across problem-oriented workflows. You start with a problem, do something in the middle and propose a solution or an insight at the end👨🎓. Here is a [great example](https://www.forbes.com/sites/artcarden/2011/07/14/underpants-gnomes-political-economy/):
 
 ![Famous underpants gnomes profit plan ](../.gitbook/assets/plan.png)
 
@@ -22,7 +22,7 @@ Workflows are usually depicted with a diagram. Data science studies often depict
 
 ![Overview of the SD modeling approach according to Richardson &amp; Pugh \(1981\)](../.gitbook/assets/sd-richardson.png)
 
-Sounds obvious, of course, but it there are a couple of important implications to keep in mind. First, **qualitative** and **quantitative workflows have a similar skeleton**. Consider a step-wise approach proposed by [Hermans & Cunningham \(2018\)](https://www.wiley.com/en-us/Actor+and+Strategy+Models%3A+Practical+Applications+and+Step+wise+Approaches-p-9781119284703) and a workflow for data scientist by [Ciara Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf):
+Sounds obvious, of course, but it there are a couple of important implications to keep in mind. First, **qualitative** and **quantitative workflows have a similar skeleton**. Consider a step-wise approach proposed by [Hermans & Cunningham \(2018\)](https://www.wiley.com/en-us/Actor+and+Strategy+Models%3A+Practical+Applications+and+Step+wise+Approaches-p-9781119284703) and a workflow for data scientist by [Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf):
 
 {% tabs %}
 {% tab title="Quantitative" %}
@@ -56,13 +56,13 @@ The **project structure follows from** the chosen **workflow**. For example, if 
 
 It is important how **name your variables** and **functions** and **comment the code**. Consider a variable `blah4`. Yes, that's a real variable! It is a data frame with a bus schedule inside. The name was given by an junior employee of a mid-size data science company working in sustainable transportation. And you know what, it is not a problem! First make it work, then make it right! The problems begin when he will placed on another project. After a week or a month is back and how easily he will figure what `blah4` stands for? So instead of exercising your memory, try to name your variables in human-readable format: `bus_schedule`. Easy-peasy, right?
 
-Guess what is another way to reduce the effort that it is needed to understand the code? Exactly 🎆 ! Commenting it! However, commenting is also tricky. You do not want to overwhelm yourself, colleague or another researcher with a novel on how you did this and that. Here is a trick 🕵 . If
+Guess what is another way to reduce the effort that it is needed to understand the code? Exactly🎆! Commenting it! However, commenting is also tricky. You do not want to overwhelm yourself, colleague or another researcher with a novel on how you did this and that. Here is a trick🕵. If
 
 * we follow a certain workflow,
 * name our notebooks according to the step,
 * variable and function names are also fine, 
 
-then the amount of comments should be much less! And of course, communities are helping us the 🥇 standards \(i.e. [PEP-8](https://www.python.org/dev/peps/pep-0008/) or [Vensim naming conventions](https://www.vensim.com/documentation/ref_variable_names.htm)\). 
+then the amount of comments should be much less! And of course, communities are helping us the🥇standards \(i.e. [PEP-8](https://www.python.org/dev/peps/pep-0008/) or [Vensim naming conventions](https://www.vensim.com/documentation/ref_variable_names.htm)\). 
 
 ### Case study
 
@@ -74,22 +74,23 @@ Let us practice these and the tools from Workshop 1 Reproducible on a case study
 
 We do not state a goal for each of these studies, you can formulate it yourself. But if you feel lost, here are a some options:
 
-1. Predict the number of firefighter calls based on the socio-demographic and housing variables;
-2. Explore correlations between number of positive tests and socio-demographic and amenities.
+1. Predict the number of firefighter calls  based on the socio-demographic and housing variables \(try [AutoML](https://www.microsoft.com/en-us/research/project/automl/)\);
+2. Cluster positive tests curves \(see [tslearn](https://tslearn.readthedocs.io/en/latest/index.html)\) and find similarities in cities of the same cluster \(i.e. [population size](https://arxiv.org/abs/2003.10376)\).
 
 {% hint style="danger" %}
-These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions.
+These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions🤓.
 {% endhint %}
 
-We expect you to do a minimalist study 🦸 :
+We expect you to do a minimalist study🦸:
 
 1. Formulate a problem or a hypothesis;
 2. Get the data;
 3. Visualize it;
 4. Apply a simple model;
-5. Report your findings.
+5. Report your findings;
+6. Upload the work to the GitHub.
 
-So, select an exercise and roll-on 🚀 ! After your finish the exercise we will be happy to check it out and give some feedback. Just send us the GitHub repo and we will send your the feedback 🤓 .
+So, select an exercise and roll-on🚀! After your finish the exercise we will be happy to check it out and give some feedback. Just send us the GitHub repo and we will send you the feedback 🤓 .
 
 ### References
 

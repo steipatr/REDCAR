@@ -2,32 +2,59 @@
 
 ## Introduction
 
-Depending on the type of study that you're doing there are different step-wise approaches or workflows to follow. The first important distinction should be made between a data science and a simulation study.
+You decided to do a computational study. Great🔥! But **what kind of study**? The first **distinction** can be made between a **data science** project and **simulation study**. While having a similar skeleton \(as we discussed before\), there are essential differences such as setting up experiments, for example. There are other cool types of studies \(i.e. network analysis, bio-statistics\), but here we will focus only on those two.
+
+![Let us select a type of computational study for you](../.gitbook/assets/comp_studies.png)
+
+‌Each of these types has its sub-types or methods. Ideally, the chosen method should fit the problem and the purpose. If you think that the problem is can be better described in System Dynamics than Agent-based Modeling, then go for System Dynamics. It would pretty weird to model bathtub dynamics with myriads of agents, right🙃? Recall [the law of the instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument) and Abraham Maslow's quote:
+
+> _"I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."_
+
+Let us assume that you have a clue which type of study to select. Now it is time to dive deeper! 
 
 ## Data science workflows
 
-Machine learning project vs data science project
+TL;DR Use [this](https://resources.github.com/downloads/development-workflows-data-scientists.pdf).
 
-AOSEMN
+Important to clarify the **difference between data science** and **machine learning projects**. Typically, the result of a data science project is an insight into a certain phenomenon. For example, we want to see what characteristics make people buy milk or what The Hague's neighbourhoods have in common. Such a study sometimes called exploratory data analysis \(EDA\). Machine learning \(ML\) projects are different. Consider a following example: you pass an image to the algorithm\(-s\) and want to know whether it is a dog or a cat. There is less uncertainty related to the problem of the study. The side tasks of ML projects are to find the best algorithm and hyperparameters. To progress in EDA you may think about collecting extra data, applying different types of algorithms.
 
-OSEMN
+![But of course AI can be a threat](../.gitbook/assets/ai_threat.jpg)
 
-CRISP-DM
+As a result machine learning workflows are a bit different from data science ones. Here the focus is on the latest one.
 
-Geron's 
+Currently, there is no 🥇 standard of data science workflow. Let us introduce the ones that found useful and discuss their differences. Here is a list: 
 
-| **№** | **CRISP-DM** | **OSEMN** |  ****[**Geron \(2017\)**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)\*\*\*\* |  |
+* [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
+* [OSEMN](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/) originally introduced by Mason & Wiggins and its slight modification [AOSEMN](https://datasciencemvp.com/articles/2019/04/16/aosemn/) by Clive, 
+* the approach suggested by Geron in his bestseller [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/),
+* and finally data science process from [the Harvard data science course](http://cs109.github.io/2015/) described by [Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf).
+
+Apparently, they all have something in common😯. Let us compare them with old good table:
+
+| **№** | \*\*\*\*[**CRISP-DM**](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)\*\*\*\* | \([A](https://datasciencemvp.com/articles/2019/04/16/aosemn/)\)[**OSEMN**](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)\*\*\*\* |  ****[**Geron \(2017\)**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)\*\*\*\* | [Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf). |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Business understanding | Gather data | Frame the problem and look at the big picture |  |
-| 2 | Data understanding | Clean data | Get the data |  |
-| 3 | Data preparation | Explore | Explore the data to gain insights |  |
-| 4 | Modeling | Model | Prepare the data to better expose the underlying data patterns with ML algorithms |  |
-| 5 | Evaluation | Interpret | Explore many different models and short-list the best ones |  |
-| 6 | Deployment |  | Fine-tune your models and combine them into a great solution |  |
+| 1 | Business understanding | \(Abstract\) | Frame the problem and look at the big picture | Ask an interesting question |
+| 2 | Data understanding | Obtain | Get the data | Get the data |
+| 3 | Data preparation | Scrub | Explore the data to gain insights | Explore the data |
+| 4 | Modeling | Explore | Prepare the data to better expose the underlying data patterns with ML algorithms | Model the data |
+| 5 | Evaluation | Models | Explore many different models and short-list the best ones | Communicate and visualize the result |
+| 6 | Deployment | Interpret | Fine-tune your models and combine them into a great solution |  |
 | 7 |  |  | Present your solution |  |
 | 8 |  |  | Launch, monitor, and maintain your system |  |
 
+Let us examine the table from top to the bottom. First, OSEMN is missing an essential component, that the rest have: a problem or a question. Clive proposed to call it an abstract and put it on top of OSEMN. 🎩 and you have AOSEMN. Alright, to be fair, the abstract is more than that. It also somehow resembles so-called [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html). Second, the bodies of the workflows seem pretty much similar. Only the bottom vary. CRISP-DM \(stands for the cross-industry standard process for data mining, by the way 😉 \) and Geron's approach have steps dedicated to deployment: step 6 and step 8, respectively. It is unlikely that as a student you will have a need to do that. No, of course, it is important, but a study typically ends with an answer to a research question.
+
+To go deeper into what exactly each of the steps require, click on the links and read. If you are a beginner 👨🎓 we recommend you to look at Geron's book. It has nice examples and pretty extensive explanations. 
+
+{% hint style="success" %}
+👨🏫 **Advice:** The workflows are pretty much the same 🎆 . By default use Harvard's one, but get familiar with the rest.
+{% endhint %}
+
 ## Simulation studies workflows
+
+Problem first
+
+![What kind of simulation study fit the best?](../.gitbook/assets/sim_studies.png)
 
 The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics, Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[[1](https://ieeexplore.ieee.org/abstract/document/6465109)\]\). With a modeling paradigm different approaches exist. Let's take a closer look at them one by one.
 
@@ -51,13 +78,7 @@ Which modeling paradigm should you use?
 
 A approach
 
-### Project structure of your simulation study
-
-* It depends on the software that you're using
-* Pure Python or Java, then you're free to organize it similarly to data science project
-* The principles are: loose coupling, ...
-
-References
+## References
 
 1. Behdani B. Evaluation of paradigms for modeling supply chains as complex socio-technical systems. InProceedings of the 2012 Winter Simulation Conference \(WSC\) 2012 Dec 9 \(pp. 1-15\). IEEE.
 2. Richardson GP, Pugh III AI. Introduction to system dynamics modeling with DYNAMO. Productivity Press Inc.; 1981 Jan 1.
