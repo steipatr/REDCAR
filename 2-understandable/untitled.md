@@ -58,6 +58,8 @@ Alright! Instead of conducting a data science project, you decided to conduct a 
 
 Without a doubt, there are other important paradigms, but let's focus on these ones. Struggling with selecting? Take a look here at the work of Behdani \(2012\).
 
+![](../.gitbook/assets/des_sd.png)
+
 Kelton et al. \(2011\) proposed do differentiate the following steps in any simulation study:
 
 1. Define high-level objectives and identify stakeholders. 
@@ -74,7 +76,11 @@ Kelton et al. \(2011\) proposed do differentiate the following steps in any simu
 
 ### System dynamics
 
+![Overview of the SD modeling approach according to Richardson &amp; Pugh \(1981\)](../.gitbook/assets/sd-richardson.png)
+
 ### Discrete-event simulation
+
+
 
 ## References
 
