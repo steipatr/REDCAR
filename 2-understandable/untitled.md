@@ -42,7 +42,7 @@ Apparently, they all have something in common😯. Let us compare them with old 
 | 7 |  |  | Present your solution |  |
 | 8 |  |  | Launch, monitor, and maintain your system |  |
 
-Let us examine the table from top to the bottom. First, OSEMN is missing an essential component, that the rest have: a problem or a question. Clive proposed to call it an abstract and put it on top of OSEMN. 🎩 and you have AOSEMN. Alright, to be fair, the abstract is more than that. It also somehow resembles so-called [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html). Second, the bodies of the workflows seem pretty much similar. Only the bottom vary. CRISP-DM \(stands for the cross-industry standard process for data mining, by the way 😉 \) and Geron's approach have steps dedicated to deployment: step 6 and step 8, respectively. It is unlikely that as a student you will have a need to do that. No, of course, it is important, but a study typically ends with an answer to a research question.
+Let us examine the table from top to the bottom. First, OSEMN is missing an essential component, that the rest have: a problem or a question. Clive proposed to call it an abstract and put it on top of OSEMN. 🎩 and you have AOSEMN. Alright, to be fair, the abstract is more than that. It also somehow resembles so-called [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html). Second, the bodies of the workflows seem pretty much similar. Only the bottom vary. CRISP-DM \(stands for the cross-industry standard process for data mining, by the way 😉 \) and Geron's approach have steps dedicated to deployment: step 6 and step 8, respectively. It is unlikely that as a student you will have a need to do that. No, of course, it is important, but a research typically ends with an answer to a research question.
 
 To go deeper into what exactly each of the steps require, click on the links and read. If you are a beginner 👨🎓 we recommend you to look at Geron's book. It has nice examples and pretty extensive explanations. 
 
@@ -52,19 +52,15 @@ To go deeper into what exactly each of the steps require, click on the links and
 
 ## Simulation studies workflows
 
-Problem first
+Alright! Instead of conducting a data science project, you decided to do a simulation study. Understandable! You want to test different policies on a supply chain, for example. The next step is to select an appropriate _modeling paradigm_. Typically, the main ones are:   
 
 ![What kind of simulation study fit the best?](../.gitbook/assets/sim_studies.png)
 
-The first question to ask is what simulation paradigm are you following? If you haven't decided yet, take a look at the guides to select between System Dynamics, Discrete-Event Simulation and Agent-Based Modeling \(see, e.g., \[[1](https://ieeexplore.ieee.org/abstract/document/6465109)\]\). With a modeling paradigm different approaches exist. Let's take a closer look at them one by one.
-
-From Kelton, W. D., J. S. Smith, and D. T. Sturrock. 2011. Simio and Simulation: Modeling, Analysis, Applications. 2nd ed. New York: McGraw-Hill, Inc \(p. 17\):
+Without a doubt, there are other important paradigms, but let us focus on these ones.
 
 Although it may vary somewhat by project and application, the general steps in a simulation study are: 1. Define high-level objectives and identify stakeholders. 2. Define the functional specification, including detailed goals, model boundaries, level of detail, modeling approach, and output measures. Design the final report. 3. Build a prototype. Update steps 1 and 2 as necessary. 4. Model or enhance a high-priority piece of the system. Document and verify it. Iterate. 5. Collect and incorporate model input data. 6. Verify and validate the model. Involve stakeholders. Return to step 4 as necessary. 7. Design experiments. Make production runs. Involve stakeholders. Return to step 4 as necessary. 8. Document the results and the model. 9. Present the results and collect your kudos.
 
-### Introduction
-
-Which modeling paradigm should you use?
+From Kelton, W. D., J. S. Smith, and D. T. Sturrock. 2011. Simio and Simulation: Modeling, Analysis, Applications. 2nd ed. New York: McGraw-Hill, Inc \(p. 17\):
 
 ### Agent-based modeling
 
