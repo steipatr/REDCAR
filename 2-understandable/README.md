@@ -5,12 +5,12 @@
 The goals of the second workshop are:
 
 * show you **how to organize your study** in a way that others \(fellow students, researchers or programmers\) can easily understand what an amazing job you did;
-* remind you how efficiently **name variables**, **program functions** and why **code formatting** is important \(PEP-8, Black, ect.\); 
+* remind you how efficiently **name variables**, **program functions** and why **code formatting** is important \(PEP-8, Black, etc.\); 
 * practice it on a **case study**.
 
 ### Workflows
 
-Let's talk about the workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work 👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be a pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
+Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work 👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
 
 > _"Workflow is an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information."_
 
@@ -42,7 +42,7 @@ Second, it is important to **remember** that **you are addressing a problem** or
 
 > _"Successful problem solving requires finding the right solution to the right problem. We fail more often because we solve the wrong problem than because we get the wrong solution to the right problem."_
 
-In case of a data science project it may seem trivial. [The methods allow you](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) predict, cluster, or try to explain a certain phenomenon. But when you start working, you can realize that there is a different angle that seems more promising. Just remember, violating from the original problem or doing research in an exploratory fashion, one hand problem, can bring unexpected benefits, but on the other side, can bring an extra burden and shift your deadlines.
+In case of a data science project it may seem trivial. [The methods allow you](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) to predict, to cluster, or to try to explain a certain phenomenon. But when you start working, you can realize that there is a different angle that seems more promising. Just remember, violating from the original problem or doing research in an exploratory fashion, one hand problem, can bring unexpected benefits, but on the other side, can bring an extra burden and shift your deadlines.
 
 Finally, students should remember that the **workflow ≠ thesis structure**. While it seems attractive to have a step of predefined steps, modeling process does not equal to scientific research process. Modeling serve to help answer research questions, propose solutions or evaluate policies. They are instruments of analysis.
 
@@ -78,12 +78,12 @@ We do not state a goal for each of these studies, you can formulate it yourself.
 2. Explore correlations between number of positive tests and socio-demographic and amenities.
 
 {% hint style="danger" %}
-These are just exercises that we are proposing you to work on in the class. Without a doubt such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quickly conclusions.
+These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions.
 {% endhint %}
 
-We expect you do a minimalist study 🦸 :
+We expect you to do a minimalist study 🦸 :
 
-1. Formulate a problem or hypothesis;
+1. Formulate a problem or a hypothesis;
 2. Get the data;
 3. Visualize it;
 4. Apply a simple model;
