@@ -86,4 +86,4 @@ We also would like to thank _Jan Kwakkel_, _Igor Nikolic, Alexander Verbraeck_ f
 5. Stodden V, Leisch F, Peng RD, editors. Implementing reproducible research. CRC Press; 2014 Apr 14.
 6. DrivenData. Cookiecutter Data Science. Available from [https://drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/) \[Accessed 03 March 2020\].
 7. Coursera Inc. Data Science Specialization. Available from [https://www.coursera.org/specializations/jhu-data-science](https://www.coursera.org/specializations/jhu-data-science) \[Accessed 03 March 2020\] 
-
+8. 
