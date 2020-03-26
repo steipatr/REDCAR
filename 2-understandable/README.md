@@ -106,8 +106,8 @@ So, select an exercise and roll-on🚀! After your finish the exercise we will b
 | 10:15 - 10:30 | Getting ready up with BBB |
 | 10:30 - 10:45 | Recap of workshop 1 |
 | 10:45 - 11:00 | REDCAR project and workshop 2 introduction |
-| 11:00- 11:30 | Talking about workflows |
+| 11:00 - 11:30 | Talking about workflows |
 | 11:30 - 11:45 | Break |
-| 11:45 -12:15 | How to write better code? |
-| 12:15 -13:00 | Starting with a case study |
+| 11:45 - 12:15 | How to write better code? |
+| 12:15 - 13:00 | Starting with a case study |
 
