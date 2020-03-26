@@ -1,4 +1,4 @@
-# Workshop 3: Shared
+# Workshop 3 Shared
 
 ### Introduction
 

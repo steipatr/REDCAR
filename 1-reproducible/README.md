@@ -1,4 +1,4 @@
-# Workshop 1: Reproducible
+# Workshop 1 Reproducible
 
 ## Introduction
 
