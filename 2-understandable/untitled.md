@@ -24,15 +24,15 @@ Which modeling paradigm should you use?
 
 ### Agent-based modeling
 
-* Igor's steps
+* I steps
 
 ### System dynamics
 
-* Erik's, Forester's, ...
+* E, Forester's, ...
 
 ### Discrete-event simulation
 
-Alexander's approach
+A approach
 
 ### Project structure of your simulation study
 
