@@ -81,6 +81,23 @@ We do not state a goal for each of these studies, you can formulate it yourself.
 These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions🤓.
 {% endhint %}
 
+The data can be found here:
+
+| № | Original data sets | Processed sample data sets |
+| :--- | :--- | :--- |
+| 1 | [112 Nederland](https://www.112-nederland.nl/) | [SURFdrive public link 1](https://surfdrive.surf.nl/files/index.php/s/rcILzk3eJ3Hlfg1) |
+|  | [Kaart van 500 meter bij 500 meter met statistieken](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/kaart-van-500-meter-bij-500-meter-met-statistieken) |  |
+|  | [Kerncijfers wijken en buurten 2019](https://www.cbs.nl/nl-nl/maatwerk/2019/31/kerncijfers-wijken-en-buurten-2019) |  |
+|  | [Wijk- en buurtkaart 2019](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/wijk-en-buurtkaart-2019) |  |
+| 2 | [Coronavirus kaart van Nederland per gemeente](https://www.rivm.nl/coronavirus-kaart-van-nederland-per-gemeente#node-coronavirus-covid-19-meldingen) | [SURFdrive public link 2](https://surfdrive.surf.nl/files/index.php/s/K7vfcVz4Debt0OM) |
+|  | [2020 coronavirus pandemic in the Netherlands](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Netherlands) |  |
+|  | [Kerncijfers wijken en buurten 2019](https://www.cbs.nl/nl-nl/maatwerk/2019/31/kerncijfers-wijken-en-buurten-2019) |  |
+|  | [Bestuurlijke Grenzen Extract 2020 \(Actueel\)](https://www.pdok.nl/downloads/-/article/bestuurlijke-grenzen#764e16c78afb7a31973b7e2110b4e4ed) |  |
+
+{% hint style="info" %}
+🧙 **Tips:** Try Wayback Machine to get the past data. For example, you can complete RIVM data set on COVID-19 by municipality use the following [query](https://web.archive.org/web/*/https://www.volksgezondheidenzorg.info/onderwerp/infectieziekten/regionaal-internationaal/coronavirus-covid-19).
+{% endhint %}
+
 We expect you to do a minimalist study🦸:
 
 1. Formulate a problem or a hypothesis;

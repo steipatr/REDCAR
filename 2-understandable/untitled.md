@@ -80,8 +80,6 @@ Kelton et al. \(2011\) proposed do differentiate the following steps in any simu
 
 ### Discrete-event simulation
 
-
-
 ## References
 
 1. Behdani B. Evaluation of paradigms for modeling supply chains as complex socio-technical systems. InProceedings of the 2012 Winter Simulation Conference \(WSC\) 2012 Dec 9 \(pp. 1-15\). IEEE.
