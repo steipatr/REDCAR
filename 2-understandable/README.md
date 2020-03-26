@@ -78,7 +78,7 @@ We do not state a goal for each of these studies, you can formulate it yourself.
 2. Cluster positive tests curves \(see [tslearn](https://tslearn.readthedocs.io/en/latest/index.html)\) and find similarities in cities of the same cluster \(i.e. [population size](https://arxiv.org/abs/2003.10376)\).
 
 {% hint style="danger" %}
-These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions🤓.
+🐉 **Warning**: These are just exercises that we are proposing you to work on in the class. Without a doubt, such a simple analysis cannot capture the whole complexity of any these problems. So be aware and do not make quick conclusions🤓.
 {% endhint %}
 
 The data can be found here:
