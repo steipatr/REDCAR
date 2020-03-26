@@ -52,8 +52,6 @@ Naming
 
 ### Case study
 
-
-
 ### References
 
 1. Wikipedia contributors. \(2020, March 23\). Workflow. In Wikipedia, The Free Encyclopedia. Retrieved March 23, 2020, from [https://en.wikipedia.org/w/index.php?title=Workflow&oldid=946935282](https://en.wikipedia.org/w/index.php?title=Workflow&oldid=946935282)
