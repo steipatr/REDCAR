@@ -34,11 +34,13 @@ Another option is to use something like Google Colab, which is similar to Binder
 
 Of course, as always, there are other services that provide similar solutions 🚀 .
 
-For R you can use RStudio Cloud. The service requires you to register and right after you'll get an access to your _workspace._ There in similar to RStudio fashion, you can create a project, make scripts and use the whole potential beloved RStudio.
+For R you can use [RStudio Cloud](https://rstudio.cloud/). The service requires you to register and right after you'll get access to your _workspace._ There, in similar to RStudio fashion, you can create a project, make scripts and use the whole potential beloved RStudio.
 
-Always keep in mind potential drawbacks of such services. **You** store and **work** with the scrips and notebooks **online**. As a result, if you've lost the internet connection, you can also lose some parts for your work. Without a doubt, there is always a certain backup mechanism. However, stuff happens, you know...  Second, **computational power** and **storage capacity**. Of course, without paying this services extra fee, you won't reach the maximum 💯  . Then, the question is, do even need this maximum? If not, you're safe, keep up good work. Otherwise, think about heavy part of work locally and then sharing the resulting notebooks. For example, I want to preform clustering on a huge dataset out of 1 billion sample. So, I'm doing it on my super powerful laptop,  
+Always keep in mind the potential drawbacks of such services. **You** **create** and **work** with the scripts and notebooks **online**. As a result, if you've lost the internet connection, you can also lose some parts for your work. Without a doubt, there is always a certain backup mechanism. However, stuff happens, you know... 
 
-Even more, 
+Second, **computational power** and **storage capacity**. Of course, without paying this services extra fee, you won't reach the maximum 💯 . Then, the question is, do you even need this maximum? If not, you're safe, keep up good work. Otherwise, think about the heavy part do it locally and share only the resulting notebooks. For example, I want to perform clustering on a huge data set out of 1 billion samples. So, I'm doing it on my super powerful laptop, saving the obtained clusters and loading them into a notebook. No need to use cloud services for that 🎆 .
+
+Finally, **privacy**. Make sure that you've read the terms and conditions. You don't want to lose the rights of your code or data, right? If the terms and conditions are too long and written in a tricky bureaucratic way, ask fellow programmers on Stack Overflow.
 
 ## Agenda
 
