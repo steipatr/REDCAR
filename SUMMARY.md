@@ -10,7 +10,7 @@
   * [Workflows](2-understandable/untitled.md)
   * [Better code](2-understandable/2.2-better-code.md)
 * [Workshop 3 Shared](3-shared/README.md)
-  * [MyBinder.org](3-shared/3.1-setup-binder.md)
-  * [Google Colab](3-shared/3.2-colaboratory.md)
+  * [Sharing for Accessibility](3-shared/3.1-setup-binder.md)
+  * [Sharing for Collaboration](3-shared/3.2-colaboratory.md)
 * [Recap](recap.md)
 
