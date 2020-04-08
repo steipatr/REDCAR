@@ -8,7 +8,7 @@ The goals of this workshop are to:
 * examine a few ways you can **collectively work on a project** together, and
 * practice these concepts **hands-on**.
 
-We will mostly cover [MyBinder](https://mybinder.org/) \(a specific implementation of the JupyterHub project\) and Google Colab. We'll briefly also mention some cloud storage methods you can use, but won't cover that in-depth.
+We will mostly cover [MyBinder](https://mybinder.org/) \(a specific implementation of the JupyterHub project\) and [Google Colab](https://colab.research.google.com/). We'll briefly also mention some cloud storage methods you can use, but won't cover that in-depth.
 
 ## Sharing for Accessibility
 
