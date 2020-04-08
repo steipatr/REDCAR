@@ -16,11 +16,11 @@ Let's assume that you have a clue which type of study to select. Now it is time 
 
 TL;DR Use [this](https://resources.github.com/downloads/development-workflows-data-scientists.pdf).
 
-It is important to clarify the **difference between data science** and **machine learning projects**. Typically, the result of a data science project is an insight into a certain phenomenon. For example, we want to see what characteristics make people buy milk or what The Hague's neighbourhoods have in common. Such a study sometimes called exploratory data analysis \(EDA\). Machine learning \(ML\) projects are different. Consider a following example: you pass an image to the algorithm\(s\) and want to know whether it is a dog or a cat. There is less uncertainty related to the problem of the study. The side tasks of ML projects are to find the best algorithm and hyperparameters. To progress in EDA you may think about collecting extra data, applying different types of algorithms.
+Important to clarify the **difference between data science** and **machine learning projects**. Typically, the result of a data science project is an insight into a certain phenomenon. For example, we want to see what characteristics make people buy milk or what The Hague's neighbourhoods have in common. Such a study sometimes called exploratory data analysis \(EDA\). Machine learning \(ML\) projects are different. Consider a following example: you pass an image to the algorithm\(-s\) and want to know whether it is a dog or a cat. There is less uncertainty related to the problem of the study. The side tasks of ML projects are to find the best algorithm and hyperparameters. To progress in EDA you may think about collecting extra data, applying different types of algorithms.
 
 ![But of course AI can be a threat](../.gitbook/assets/ai_threat.jpg)
 
-As a result, machine learning workflows are a bit different from data science ones. Here, the focus is on the latest one as of writing.
+As a result machine learning workflows are a bit different from data science ones. Here the focus is on the latest one.
 
 Currently, there is no 🥇 standard of data science workflow. Let's introduce the ones that found useful and discuss their differences. Here is a list: 
 

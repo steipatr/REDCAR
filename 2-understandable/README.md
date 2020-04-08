@@ -4,13 +4,13 @@
 
 The goals of the second workshop are:
 
-* show you **how to organize your study** in a way that others \(fellow students, researchers or programmers\) can easily understand what an amazing job you did,
-* remind you how efficiently **name variables**, **program functions** and why **code formatting** is important \(PEP-8, Black, etc.\), and
+* show you **how to organize your study** in a way that others \(fellow students, researchers or programmers\) can easily understand what an amazing job you did;
+* remind you how efficiently **name variables**, **program functions** and why **code formatting** is important \(PEP-8, Black, etc.\); 
 * practice it on a **case study**.
 
 ### Workflows
 
-Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work👨🎓 – the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
+Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
 
 > _"Workflow is an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information."_
 
@@ -54,12 +54,12 @@ Here we have two things to discuss: how to **organize your project** \(the files
 
 The **project structure follows from** the chosen **workflow**. For example, if you are doing a data science research and decided to follow the workflow from above you should have Jupyter Notebooks and scripts dedicated to each of the "steps." Simulation studies conducted "purely" with programming languages \(see amazing and free [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) by Allan Downey\), follow the same logic \(i.e. separate the simulation model from analysis of experiments\). If you are using a certain simulation modeling software, for example, [Simio](https://www.simio.com/index.php), you are forced to follow its internal logic.
 
-It is important how **name your variables** and **functions** and **comment the code**. Consider a variable `blah4`. Yes, that's a real variable! It is a data frame with a bus schedule inside. The name was given by an junior employee of a mid-size data science company working in sustainable transportation. And you know what? It is not a problem! First make it work, then make it right! The problems begin when he will placed on another project. After a week or a month is back and how easily he will figure what `blah4` stands for? So instead of exercising your memory, try to name your variables in human-readable format: `busSchedule`. Easy-peasy, right?
+It is important how **name your variables** and **functions** and **comment the code**. Consider a variable `blah4`. Yes, that's a real variable! It is a data frame with a bus schedule inside. The name was given by an junior employee of a mid-size data science company working in sustainable transportation. And you know what, it is not a problem! First make it work, then make it right! The problems begin when he will placed on another project. After a week or a month is back and how easily he will figure what `blah4` stands for? So instead of exercising your memory, try to name your variables in human-readable format: `bus_schedule`. Easy-peasy, right?
 
-Guess what is another way to reduce the effort that it is needed to understand the code? Exactly🎆! Commenting it! However, commenting is also tricky. You do not want to overwhelm yourself, colleague or another researcher with a novel on how you did this and that. Here is a trick🕵. If:
+Guess what is another way to reduce the effort that it is needed to understand the code? Exactly🎆! Commenting it! However, commenting is also tricky. You do not want to overwhelm yourself, colleague or another researcher with a novel on how you did this and that. Here is a trick🕵. If
 
 * we follow a certain workflow,
-* name our notebooks according to the step, and
+* name our notebooks according to the step,
 * variable and function names are also fine, 
 
 then the amount of comments should be much less! And of course, communities are helping us the🥇standards \(i.e. [PEP-8](https://www.python.org/dev/peps/pep-0008/) or [Vensim naming conventions](https://www.vensim.com/documentation/ref_variable_names.htm)\). 
@@ -72,9 +72,9 @@ Let us practice these and the tools from Workshop 1 Reproducible on a case study
 2. Understanding dynamics of COVID-19 in the Netherlands;
 3. A project that you are currently working on.
 
-We do not state a goal for each of these studies; you can formulate it yourself. But if you feel lost, here are a some options:
+We do not state a goal for each of these studies, you can formulate it yourself. But if you feel lost, here are a some options:
 
-1. Predict the number of firefighter calls based on the socio-demographic and housing variables \(try [AutoML](https://www.microsoft.com/en-us/research/project/automl/)\);
+1. Predict the number of firefighter calls  based on the socio-demographic and housing variables \(try [AutoML](https://www.microsoft.com/en-us/research/project/automl/)\);
 2. Cluster positive tests curves \(see [tslearn](https://tslearn.readthedocs.io/en/latest/index.html)\) and find similarities in cities of the same cluster \(i.e. [population size](https://arxiv.org/abs/2003.10376)\).
 
 {% hint style="danger" %}

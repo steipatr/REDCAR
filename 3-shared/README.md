@@ -1,6 +1,38 @@
 # Workshop 3 Shared
 
-### Introduction
+## Introduction
 
-### Agenda
+The goals of this workshop are to:
+
+* cover some tools and best practices for sharing your work that can **make it easier for others to access** \(and also reproduce!\),
+* examine a few ways you can **collectively work on a project** together, and
+* practice these concepts **hands-on**.
+
+We will mostly cover [MyBinder](https://mybinder.org/) \(a specific implementation of the JupyterHub project\) and Google Colab. We'll briefly also mention some cloud storage methods you can use, but won't cover that in-depth.
+
+## Sharing for Accessibility
+
+So your code is now more reproducible and understandable. Great. Let's tell the world! Hello world!
+
+Loud cat meme
+
+We already showed you in workshop 1 \(LINK THIS!!!!!!!!!!!!!!!\) how to put your Git-tracked repository of work onto GitHub, a cloud Git repository. We talked about how we can manage that repository to make it easy for someone to "clone" or download and run on their own computer.
+
+However, that person needs to also have a preliminary understanding how environments and package management. They also need access to a laptop where they can install software freely. What if someone doesn't understand what an environment is? What if they have a company computer they can't install Python and Juptyer on or want to see your work from a phone or tablet \(most internet users are mobile these days\)?
+
+MyBinder.org is a free cloud service that gives anyone browser-based access to a Jupyter or RStudio interface that can run your code on a remote server. In other words, as long as your repository is configured neatly, anyone with internet access can run your code without needing to configure anything!
+
+Show easy example of each of these working
+
+## Sharing for Collaboration
+
+The other main reason to share our scientific work is for others to collaborate with use. Again, Git via GitHub can handle a lot of that, but we haven't covered multi-user Git \(branching, merging, pull requests, and resolving merge conflicts\). Unfortunately, we won't here either, but one of our colleagues shared a nice interactive game that can teach you it: [https://learngitbranching.js.org](https://learngitbranching.js.org).
+
+Another option is to use something like Google Colab, which is similar to Binder, but doesn't _necessarily_ need a Git repository behind it; you can simply open Colab, upload files, and save it on the \(Google\) cloud. You can share a link with others and they will be able to see exactly what you do, but not in real-time. Colab is similar to Google Docs except it does not support live coding, where two people can edit and run a notebook simultaneously.
+
+## Agenda
+
+| When? | What? |
+| :--- | :--- |
+|  |  |
 
