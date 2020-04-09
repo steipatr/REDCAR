@@ -43,7 +43,7 @@ For R you can use [RStudio Cloud](https://rstudio.cloud/). The service requires 
 
 Always keep in mind the potential drawbacks of such services. **You** **create** and **work** with the scripts and notebooks **online**. As a result, if you've lost the internet connection, you can also lose some parts for your work. Without a doubt, there is always a certain backup mechanism. However, stuff happens, you know... 
 
-Second, **computational power** and **storage capacity**. Of course, without paying this services extra fee, you won't reach the maximum 💯. Though, that poses the question: do you even need this maximum? If not, you're safe, keep up good work. Otherwise, think about the heavy part do it locally and share only the resulting notebooks. For example, I want to perform clustering on a huge data set out of 1 billion samples. So, I'm doing it on my super powerful laptop, saving the obtained clusters and loading them into a notebook. No need to use cloud services for that 🎆.
+Second, **computational power** and **storage capacity**. Of course, without paying this services extra fee, you won't reach the maximum 💯. Though, that poses the question: do you even need this maximum? If not, you're safe, keep up good work. Otherwise, think about the heavy part do it locally and share only the resulting notebooks. For example, I want to perform clustering on a huge data set out of 1 billion samples. So, I'm doing it on my [super powerful laptop](https://github.com/mikhailsirenko/REDCAR/blob/master/.gitbook/assets/laptop.jpg), saving the obtained clusters and loading them into a notebook. No need to use cloud services for that 🎆.
 
 Finally, **privacy**. Make sure that you've read the terms and conditions. You don't want to lose the rights of your code or data, right? If the terms and conditions are too long and written in a tricky bureaucratic way, ask fellow programmers on Stack Overflow.
 
@@ -58,8 +58,4 @@ Finally, **privacy**. Make sure that you've read the terms and conditions. You d
 | 11:30 – 11:45 | Break |
 | 11:45 – 12:15 | Sharing for Collaboration |
 | 12:15 – 13:00 | Debugging to get it working for you + discussion \(?\) + Closing |
-
-![](../.gitbook/assets/image%20%287%29.png)
-
-![](../.gitbook/assets/image%20%288%29.png)
 
