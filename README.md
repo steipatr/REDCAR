@@ -53,9 +53,9 @@ To get the maximum of the project we invite you to come and participate in the h
 
 To participate in the workshops you will need a laptop and a couple of tools installed. The preparation process will take less than 30 minutes.
 
-* [ ] Download and install Anaconda Distribution with Python 3.7 from here. The process is pretty straightforward: select your operating system, download installer and follow the steps. If you already have it, make sure that it works by running any script in JupyterLab \(that's the IDE that we will work in\). If you prefer to use R programming language - no problem! After installing Anaconda Distribution, open it and install RStudio. To use R in Jupyter Notebook follow this simple tutorial.
-* [ ] Install Git from here. The same principle works here: select your operating system and follow the steps.
-* [ ] Create a GitHub a account [here](https://github.com/join?source=header-home). Don't forget about [GitHub Student Developer Pack](https://education.github.com/pack). It provides free access and discounts to plenty of services and tools. 
+* Download and install Anaconda Distribution with Python 3.7 from here. The process is pretty straightforward: select your operating system, download installer and follow the steps. If you already have it, make sure that it works by running any script in JupyterLab \(that's the IDE that we will work in\). If you prefer to use R programming language - no problem! After installing Anaconda Distribution, open it and install RStudio. To use R in Jupyter Notebook follow this simple tutorial.
+* Install Git from here. The same principle works here: select your operating system and follow the steps.
+* Create a GitHub a account [here](https://github.com/join?source=header-home). Don't forget about [GitHub Student Developer Pack](https://education.github.com/pack). It provides free access and discounts to plenty of services and tools. 
 
 {% hint style="success" %}
 That's it! All set now.
