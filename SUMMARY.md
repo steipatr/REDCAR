@@ -12,5 +12,4 @@
 * [Workshop 3 Shared](3-shared/README.md)
   * [Sharing for Accessibility](3-shared/3.1-setup-binder.md)
   * [Sharing for Collaboration](3-shared/3.2-colaboratory.md)
-* [Recap](recap.md)
 
