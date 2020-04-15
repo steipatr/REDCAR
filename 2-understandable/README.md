@@ -1,6 +1,6 @@
 # Workshop 2 Understandable
 
-### Introduction
+## Introduction
 
 The goals of the second workshop are:
 
@@ -8,7 +8,7 @@ The goals of the second workshop are:
 * remind you how efficiently **name variables**, **program functions** and why **code formatting** is important \(PEP-8, Black, etc.\); 
 * practice it on a **case study**.
 
-### Workflows
+## Workflows
 
 Let's talk about workflows first. What is a _workflow_ in simple terms? Well, it's a flow of work👨🎓, the **steps that you need to undertake to solve a problem or a task** in accordance with a domain \(i.e. data science, engineering\). A workflow can be pretty extensive in tools that should be used to support each of the actions, or a more high-level \(so-called _step-wise_ approach\). Here is a formal definition by Business Process Management Center of Excellence Glossary \(Wikipedia contributors, 2020\):
 
@@ -46,7 +46,7 @@ In case of a data science project it may seem trivial. [The methods allow you](h
 
 Finally, students should remember that the **workflow ≠ thesis structure**. While it seems attractive to have a step of predefined steps, modeling process does not equal to scientific research process. Modeling serve to help answer research questions, propose solutions or evaluate policies. They are instruments of analysis.
 
-### Better code
+## Better code
 
 Here we have two things to discuss: how to **organize your project** \(the files\) and how you **write** your **code**.
 
@@ -64,7 +64,7 @@ Guess what is another way to reduce the effort that it is needed to understand t
 
 then the amount of comments should be much less! And of course, communities are helping us the🥇standards \(i.e. [PEP-8](https://www.python.org/dev/peps/pep-0008/) or [Vensim naming conventions](https://www.vensim.com/documentation/ref_variable_names.htm)\). 
 
-### Case study
+## Case study
 
 Let us practice these and the tools from Workshop 1 Reproducible on a case study. We prepared 3 options for you:
 
@@ -109,14 +109,14 @@ We expect you to do a minimalist study🦸:
 
 So, select an exercise and roll-on🚀! After your finish the exercise we will be happy to check it out and give some feedback. Just send us the GitHub repo and we will send you the feedback 🤓 .
 
-### References
+## References
 
 1. Wikipedia contributors. \(2020, March 23\). Workflow. In Wikipedia, The Free Encyclopedia. Retrieved March 23, 2020, from [https://en.wikipedia.org/w/index.php?title=Workflow&oldid=946935282](https://en.wikipedia.org/w/index.php?title=Workflow&oldid=946935282)
 2. Hermans, L., & Cunningham, S. W. \(2018\). Actor and Strategy Models. Wiley Blackwell.
 3. Ciara Byrne \(2017\). Development Workflows for Data Scientists. O’Reilly Media, Inc.
 4. Richardson, G. P., & Pugh III, A. I. \(1981\). Introduction to system dynamics modeling with DYNAMO. Productivity Press Inc..
 
-### Agenda
+## Agenda
 
 | When? | What? |
 | :--- | :--- |
