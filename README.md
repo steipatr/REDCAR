@@ -69,7 +69,7 @@ _Mikhail Sirenko_ [@mikhailsirenko](https://twitter.com/mikhailsirenko), _Nicola
 
 ## License
 
-[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+[CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Acknowledgements
 
