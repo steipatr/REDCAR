@@ -10,7 +10,7 @@ You decided to do a computational study. Great🔥! But **what kind of study**? 
 
 > _"I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."_
 
-Let's assume that you have a clue which type of study to select. Now it is time to dive deeper! 
+Let's assume that you have a clue which type of study to select. Now it is time to dive deeper!
 
 ## Data science workflows
 
@@ -20,7 +20,7 @@ Important to clarify the **difference between data science** and **machine learn
 
 As a result machine learning workflows are a bit different from data science ones. Here the focus is on the latest one.
 
-Currently, there is no 🥇 standard of data science workflow. Let's introduce the ones that found useful and discuss their differences. Here is a list: 
+Currently, there is no 🥇 standard of data science workflow. Let's introduce the ones that found useful and discuss their differences. Here is a list:
 
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
 * [OSEMN](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/) originally introduced by Mason & Wiggins and its slight modification [AOSEMN](https://datasciencemvp.com/articles/2019/04/16/aosemn/) by Clive, 
@@ -29,7 +29,7 @@ Currently, there is no 🥇 standard of data science workflow. Let's introduce t
 
 Apparently, they all have something in common😯. Let's compare them with old good table:
 
-| **№** | \*\*\*\*[**CRISP-DM**](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)\*\*\*\* | \([A](https://datasciencemvp.com/articles/2019/04/16/aosemn/)\)[**OSEMN**](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)\*\*\*\* |  ****[**Geron \(2017\)**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)\*\*\*\* | [Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf). |
+| **№** | \*\*\*\*[**CRISP-DM**](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)\*\*\*\* | \([A](https://datasciencemvp.com/articles/2019/04/16/aosemn/)\)[**OSEMN**](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)\*\*\*\* | **\*\*\[**Geron \(2017\)_\*\]\(_[https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291\)\](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291%29\)\*\*\* | [Byrne \(2017\)](https://resources.github.com/downloads/development-workflows-data-scientists.pdf). |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Business understanding | \(Abstract\) | Frame the problem and look at the big picture | Ask an interesting question |
 | 2 | Data understanding | Obtain | Get the data | Get the data |
@@ -42,7 +42,7 @@ Apparently, they all have something in common😯. Let's compare them with old g
 
 Let's examine the table from top to the bottom. First, OSEMN is missing an essential component, that the rest have: a problem or a question. Clive proposed to call it an abstract and put it on top of OSEMN. 🎩 and you have AOSEMN. Alright, to be fair, the abstract is more than that. It also somehow resembles so-called [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html). Second, the bodies of the workflows seem pretty much similar. Only the bottom vary. CRISP-DM \(stands for the cross-industry standard process for data mining, by the way😉\) and Geron's approach have steps dedicated to deployment: step 6 and step 8, respectively. It is unlikely that as a student you will have a need to do that. No, of course, it is important, but a research typically ends with an answer to a research question.
 
-To go deeper into what exactly each of the steps require, click on the links and read. If you are a beginner 👨🎓 we recommend you to look at Geron's book. It has nice examples and pretty extensive explanations. 
+To go deeper into what exactly each of the steps require, click on the links and read. If you are a beginner 👨🎓 we recommend you to look at Geron's book. It has nice examples and pretty extensive explanations.
 
 {% hint style="success" %}
 👨🏫 **Advice:** The workflows are pretty much the same 🎆 . By default use Harvard's one, but get familiar with the rest.
@@ -50,7 +50,7 @@ To go deeper into what exactly each of the steps require, click on the links and
 
 ## Simulation studies workflows
 
-Alright! Instead of conducting a data science project, you decided to conduct a simulation study. Understandable! You want to test different policies on, let's say, a supply chain. The next step is to select an appropriate _modeling paradigm_. Typically, the main ones are:   
+Alright! Instead of conducting a data science project, you decided to conduct a simulation study. Understandable! You want to test different policies on, let's say, a supply chain. The next step is to select an appropriate _modeling paradigm_. Typically, the main ones are:
 
 ![What kind of simulation study fit the best?](../.gitbook/assets/sim_studies.png)
 
